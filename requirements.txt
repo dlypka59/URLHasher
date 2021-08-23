@@ -1,0 +1,5 @@
+bitcoin
+Flask
+Flask-Cors
+python-dateutil
+requests
