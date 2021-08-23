@@ -80,5 +80,35 @@ Sample Output:
 {"urlhash": "9m35Laf", "urlshortened": "http://127.0.0.1:5000/urlhash/9m35Laf", "url": "https://www.google.com/search?q=new+york+city+weather&oq=&aqs=chrome.2.69i59i450l8.392358635j0j7&sourceid=chrome&ie=UTF-8"}
 ```
 
+### Time Spent
 
+```
+Aug 17 - started Research and high level design
+         how to compute the short url - idea to leverage crypto private key method because has desired character set (all alphanum)
+         scaling via cloud function
+         studied the requirements doc, augmented it
+         1.5 hours
+
+Aug 18 - more crypto function research and preparing python development on ubuntu linux
+         wrote out a more detailed development plan
+         finished first working version of major code including REST API in flask
+         2 hours
+
+Aug 19 - more unit testing and code fixes
+         .5 hours
+
+Aug 20 - more unit testing and created the github repo
+         .5 hours
+
+Aug 21 - beginning to create Readme.md
+         1 hour
+
+Aug 22   Completed README.md
+         .5 hours
+
+Aug 23   upload to github
+         5 mins
+
+Total time spent: 6 hours
+```
 
